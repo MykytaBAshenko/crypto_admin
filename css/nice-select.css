@@ -34,7 +34,7 @@
   color: #dba622 !important;
 }
 .nice-select li {
-    color: #222;
+    /* color: #222; */
 }
   .nice-select:active, .nice-select.open, .nice-select:focus {
     border-color: #999; }

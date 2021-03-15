@@ -5160,7 +5160,7 @@ dl.userdescc dd{
 }
 /**------transactions wrapper css-----**/
 .last_transaction_wrapper {
-  margin-top: 190px;
+  /* margin-top: 190px; */
     padding: 50px 30px 130px 35px;
     background: #000000;
 }
