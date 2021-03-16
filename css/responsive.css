@@ -601,7 +601,7 @@
 		fill: #fff;
 	}
 	.inner_toggle .menubar {
-		fill: #00aaef;
+		/* fill: #00aaef; */
 	}
 	.cd-dropdown{
 		width:350px;
@@ -750,12 +750,12 @@
 		color:#fff;
 	}
 	.cd-dropdown-content li a:hover{
-		background:#00aaef;
+		background:#dba622;
 	}
 	.cd-dropdown h2 a{
 		font-size:24px;
 		font-weight:600;
-		color:#00aaef;
+		color:white;
 		text-transform:uppercase;
 		letter-spacing:1px;
 	}
